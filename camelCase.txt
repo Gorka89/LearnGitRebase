@@ -1,2 +1,2 @@
-Content of CamelCase file
+Content of CamelCase file 2
 
