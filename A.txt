@@ -1,7 +1,7 @@
 
 Line 0 on file A
-Line 1 on file A
-Line 2 on file A
+Line 1 on file A: cambio #1 commit
+Line 2 on file A: cambio #2 commit
 Line 3 on file A
 Line 4 on file A
 Line 5 on file A
