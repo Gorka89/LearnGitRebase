@@ -2,8 +2,8 @@ Line 0 on file B
 Line 1 on file B
 Line 2 on file B: mother fucker
 Line 3 on file B: crap!
-Line 4 on file B
-Line 5 on file B
+Line 4 on file B: ey ou whatsapp! take it easy!
+Line 5 on file B: finish microservice great great
 Line 6 on file B
 Line 7 on file B
 Line 8 on file B
