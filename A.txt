@@ -1,5 +1,6 @@
 
 Line 0 on file A
+Change A file name to lower case
 Line 1 on file A
 Line 2 on file A
 Line 3 on file A
