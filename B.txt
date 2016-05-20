@@ -3,10 +3,12 @@ Line 1 on file B
 Line 2 on file B
 Line 3 on file B
 Line 4 on file B
+hdgjhss
 Line 5 on file B
 Line 6 on file B
 Line 7 on file B
 Line 8 on file B
+second commit
 Line 9 on file B
 Line 10 on file B
 Line 11 on file B
