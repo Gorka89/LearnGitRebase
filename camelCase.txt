@@ -1,1 +1,2 @@
-asdasda
+Content of CamelCase file
+
