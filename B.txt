@@ -7,9 +7,8 @@ Line 5 on file B
 Line 6 on file B
 Line 7 on file B
 Line 8 on file B
-Line 9 on file B
-Line 10 on file B
-Line 11 on file B
+A Jaunjo le molan los penes 8===D
+Y no hace nada mas que pegar saltitos en el CS
 Line 12 on file B
 Line 13 on file B
 Line 14 on file B
@@ -22,8 +21,7 @@ Line 20 on file B
 Line 21 on file B
 Line 22 on file B
 Line 23 on file B
-Line 24 on file B
-Line 25 on file B
+hola segundo commit 
 Line 26 on file B
 Line 27 on file B
 Line 28 on file B
