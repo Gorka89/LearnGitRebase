@@ -8,6 +8,7 @@ Line 6 on file C
 c
 Line 7 on file C
 Line 8 on file C
+bbbb
 Line 9 on file C
 Line 10 on file C
 Line 11 on file C
