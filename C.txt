@@ -5,6 +5,7 @@ Line 3 on file C
 Line 4 on file C
 Line 5 on file C
 Line 6 on file C
+c
 Line 7 on file C
 Line 8 on file C
 Line 9 on file C
